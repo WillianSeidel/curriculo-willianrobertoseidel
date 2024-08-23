@@ -55,8 +55,8 @@
 
 }
 
-.phone::before {
-    background: url("../img/whats.png") no-repeat center center;
+.tel::before {
+    background: url("../img/tel.png") no-repeat center center;
 
 }
 
